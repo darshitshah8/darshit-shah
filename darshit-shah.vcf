@@ -1,0 +1,19 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Shah;Darshit;;;
+FN:Darshit Shah
+ORG:SkaleShift
+TITLE:Software Developer
+TEL;TYPE=CELL,VOICE:+917016111871
+EMAIL;TYPE=INTERNET,HOME:darshitshah466@gmail.com
+EMAIL;TYPE=INTERNET,WORK:hello@skaleshift.com
+URL:https://darshitshah8.github.io/darshit-shah/
+URL;TYPE=WORK:https://skaleshift.com
+item1.URL:https://linkedin.com/in/darshitshah8
+item1.X-ABLabel:LinkedIn
+item2.URL:https://github.com/darshitshah8
+item2.X-ABLabel:GitHub
+item3.URL:https://cronhour.com
+item3.X-ABLabel:Cronhour
+ADR;TYPE=HOME:;;;Rajkot;Gujarat;;India
+END:VCARD
